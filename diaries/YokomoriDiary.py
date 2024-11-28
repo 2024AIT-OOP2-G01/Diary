@@ -6,7 +6,7 @@ class YokomoriDiary(AbstractDiary):
         return "2024-11-28"
 
     def get_summary(self):
-        return "GitHubなんもわからん"
+        return "GitHubなんもわからん。"
 
     def get_author(self):
         return "Yokomori"
