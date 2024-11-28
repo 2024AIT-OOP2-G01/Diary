@@ -1,13 +1,13 @@
 from diaries.AbstractDiary import AbstractDiary
 
 
-class DiarySample(AbstractDiary):
+class MiyagoshiDiary(AbstractDiary):
 
     def get_date(self):
-        return "2021-12-01"
+        return "2024-11-28"
 
     def get_summary(self):
-        return "なにもない一日だった"
+        return "おなかすいた"
 
     def get_author(self):
         return "Sample"
