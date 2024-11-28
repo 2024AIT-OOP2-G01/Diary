@@ -7,7 +7,7 @@ class YokomoriDiary(AbstractDiary):
 
     def get_summary(self):
         return """GitHubなんもわからん。
-        コンフリクトへの対処とかSQLとか正規表現とかそういうの早く自動化してくれ。"""
+コンフリクトへの対処とかSQLとか正規表現とかそういうの早く自動化してくれ。"""
 
     def get_author(self):
         return "Yokomori"
